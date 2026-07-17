@@ -1,5 +1,5 @@
 # ULTRASURF
-#	CONTROLS
+	CONTROLS
 # Move right: Right arrow / D
 # Move left: Left arrow / A
 # Shoot: Space
